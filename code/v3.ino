@@ -38,7 +38,7 @@ enum AslMode {
 volatile AslMode aslMode = ASL_OTHER;
 
 // ==========================================
-// 0. 腳位與參數定義 (同學修改版)
+// 0. 腳位與參數定義 
 // ==========================================
 const int LED_R = 17;
 const int LED_G = 23; 
